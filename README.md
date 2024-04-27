@@ -24,6 +24,6 @@
     <img src="https://github.com/Greeddk/HeartBeamAR/assets/116425551/31e370a4-2ed3-482a-84b3-3d4604e279d9", width = 300>
     <img src="https://github.com/Greeddk/HeartBeamAR/assets/116425551/830498d4-56f0-4352-9300-dac864d29596", width = 300>
     <h2>🛠Develop Framework🛠</h2>
-    <h3>IOS (SwiftUI_XCode)<br>AR </h3>
+    <h3>IOS <br>ARKit </h3>
     <br>
     
